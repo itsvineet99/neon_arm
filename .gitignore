@@ -9,6 +9,8 @@
 
 # Output files / executables (idk what to say em tbh)
 v_add
+v_mult
+v_dot
 
 # Executables
 *.exe
